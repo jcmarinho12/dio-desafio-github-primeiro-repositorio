@@ -1,2 +1,10 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash e um terminal extendido para otimizar o uso do Git.
+
+Link do site do GitHub: https://github.com/jcmarinho12
+GitHub uma inovação na area de destribuição em conhecimentos,
+ára os desenvolvedores.
+
+Link de site ultio para desenvolvedores: https://www.w3schools.com
+w3schools um grande ferramenta para o uso de e conhecimentos no ambito,
+de linguaguens de Programação.
